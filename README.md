@@ -41,3 +41,17 @@ Reportez-vous à la section sur le déploiement: [https://facebook.github.io/cre
 - `src/App.js` disposition principale de l'application
 - `src/index.js` point d'entrée de l'application
 - `src/.env` configurations de l'application
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Fstepchu)
+
+Click the button to deploy your own copy on Vercel in one step.
+
+Set these environment variables in the Vercel project settings (see `.env.example`):
+
+- `REACT_APP_API_PATH`
+- `REACT_APP_API_URL`
+- `REACT_APP_LOCALE`
+- `REACT_APP_NAME`
+- `REACT_APP_STORAGE_KEY`
