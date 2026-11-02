@@ -1,3 +1,5 @@
+
+[![CI](https://github.com/ghostland-dev/stepchu/actions/workflows/ci.yml/badge.svg)](https://github.com/ghostland-dev/stepchu/actions/workflows/ci.yml)
 ## Prise en main du projet STEP CHU Admin
 
 ## Scripts disponibles
