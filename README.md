@@ -55,3 +55,10 @@ Set these environment variables in the Vercel project settings (see `.env.exampl
 - `REACT_APP_LOCALE`
 - `REACT_APP_NAME`
 - `REACT_APP_STORAGE_KEY`
+
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
